@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Information Systems by <a href="https://unisantacruz.edu.br/"> <Strong>SantaCruz</Strong> </a></p>
+<p align="left">Information Systems by <Strong>SantaCruz</Strong> </p>
 
 ###
 
