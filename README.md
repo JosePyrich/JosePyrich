@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Information Systems by ><a href="https://www.mozilla.org/pt-BR/](https://unisantacruz.edu.br/"> <Strong>SantaCruz</Strong> </a></p>
 
 ###
 
