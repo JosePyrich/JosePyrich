@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>Bachelor's Degree in Information Systems at <strong>Santa Cruz University</strong></p>
-  <p>  technologist in analysis and development at <Strong>SENAI </Strong> </p>
+  <p>  technologist in systems analysis and development at <Strong>SENAI </Strong> </p>
   <p> cybersecurity course by <Strong>Google</Strong> </p>
 </div>
 
