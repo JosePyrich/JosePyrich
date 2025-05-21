@@ -23,8 +23,6 @@
   🎯 Goals: Learn more about a little bit of everything <br>
   
   🎲 Fun fact: I do some Minecraft speedruns and other nerdy stuff.<br>
-  
-  💻 Favorite IDE: Visual Studio Code and Cursor
 </p>
 
 ###
